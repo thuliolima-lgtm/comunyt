@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CadastroBandasConsoleApp2026/1.0.0": {
+        "runtime": {
+          "CadastroBandasConsoleApp2026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroBandasConsoleApp2026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

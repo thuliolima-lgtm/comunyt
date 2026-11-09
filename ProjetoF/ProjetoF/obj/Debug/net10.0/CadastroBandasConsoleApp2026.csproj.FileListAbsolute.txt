@@ -1,0 +1,16 @@
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\bin\Debug\net10.0\CadastroBandasConsoleApp2026.exe
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\bin\Debug\net10.0\CadastroBandasConsoleApp2026.deps.json
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\bin\Debug\net10.0\CadastroBandasConsoleApp2026.runtimeconfig.json
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\bin\Debug\net10.0\CadastroBandasConsoleApp2026.dll
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\bin\Debug\net10.0\CadastroBandasConsoleApp2026.pdb
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\CadastroBandasConsoleApp2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\CadastroBandasConsoleApp2026.AssemblyInfoInputs.cache
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\CadastroBandasConsoleApp2026.AssemblyInfo.cs
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\CadastroBandasConsoleApp2026.csproj.CoreCompileInputs.cache
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\CadastroBandasConsoleApp2026.sourcelink.json
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\CadastroBandasConsoleApp2026.dll
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\refint\CadastroBandasConsoleApp2026.dll
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\CadastroBandasConsoleApp2026.pdb
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\CadastroBandasConsoleApp2026.genruntimeconfig.cache
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\ref\CadastroBandasConsoleApp2026.dll
+C:\Users\thuli\Downloads\comunyt\ProjetoF\ProjetoF\obj\Debug\net10.0\Cadastro.F77B5DA0.Up2Date
