@@ -1,0 +1,17 @@
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.Form1.resources
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.csproj.GenerateResource.cache
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.AssemblyInfoInputs.cache
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.AssemblyInfo.cs
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.csproj.CoreCompileInputs.cache
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\bin\Debug\net10.0-windows\helloForms.exe
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\bin\Debug\net10.0-windows\helloForms.deps.json
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\bin\Debug\net10.0-windows\helloForms.runtimeconfig.json
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\bin\Debug\net10.0-windows\helloForms.dll
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\bin\Debug\net10.0-windows\helloForms.pdb
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.dll
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\refint\helloForms.dll
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.pdb
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.genruntimeconfig.cache
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\ref\helloForms.dll
+C:\Users\thuli\Downloads\comunyt\helloForms\helloForms\obj\Debug\net10.0-windows\helloForms.csproj.Up2Date
