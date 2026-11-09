@@ -1,0 +1,4 @@
+C:\Users\thuli\Downloads\comunyt\Cadastro_EletroConsole\Cadastro_EletroConsole\obj\Debug\net10.0\Cadastro_EletroConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuli\Downloads\comunyt\Cadastro_EletroConsole\Cadastro_EletroConsole\obj\Debug\net10.0\Cadastro_EletroConsole.AssemblyInfoInputs.cache
+C:\Users\thuli\Downloads\comunyt\Cadastro_EletroConsole\Cadastro_EletroConsole\obj\Debug\net10.0\Cadastro_EletroConsole.AssemblyInfo.cs
+C:\Users\thuli\Downloads\comunyt\Cadastro_EletroConsole\Cadastro_EletroConsole\obj\Debug\net10.0\Cadastro_EletroConsole.csproj.CoreCompileInputs.cache
